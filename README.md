@@ -14,9 +14,9 @@
 
 [Publications](#publications)
 
-[Reach me](#Reach me)
+[Reach me](#reach me)
 
-[ ] [**Personal study notes (learning more)**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
+ [ ] [**Personal study notes**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
 
 ## General
 
@@ -61,4 +61,4 @@ Sun XZ and Liu JG. Allelopathic effects of onion and cumin on cotton growth and 
 
 ![Personal wechat public account: keladunang](https://github.com/xzsun/xzsun.github.io/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png?raw=true)
 
-
+[**(learning more)**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
