@@ -1,6 +1,6 @@
 # Xin-Zhan (Solomon) Sun
 
-![The photo of working for scientific reasearch](https://github.com/xzsun/xzsun.github.io/blob/master/%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87.JPG?raw=true)
+![The photo of working for scientific reasearch](D:\\GitHub\\xzsun.github.io\\科研工作照片.JPG)
 
 ## Summary
 
