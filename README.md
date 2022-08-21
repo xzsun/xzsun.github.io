@@ -1,6 +1,6 @@
 # Xin-Zhan (Solomon) Sun
 
-![The photo of working for scientific reasearch](D:\\GitHub\\xzsun.github.io\\科研工作照片.JPG)
+![The photo of working for scientific reasearch](https://github.com/xzsun/xzsun.github.io/blob/main/%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87.JPG?raw=true)D:\\GitHub\\xzsun.github.io\\科研工作照片.JPG
 
 ## Summary
 
@@ -87,5 +87,5 @@ Sun XZ and Liu JG. Allelopathic effects of onion and cumin on cotton growth and 
 
 - bilibili username: bili_89968742364
 
-![Personal wechat public account: keladunang](D:\\GitHub\\xzsun.github.io\\公众号二维码.png)
+![Personal wechat public account: keladunang](https://github.com/xzsun/xzsun.github.io/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png?raw=true)D:\\GitHub\\xzsun.github.io\\公众号二维码.png
 
