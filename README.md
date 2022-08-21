@@ -7,30 +7,18 @@
 ## Summary
 
 - [General](#general)
-- [ ] [License](#license)
-- [ ] [Documentation](#documentation)
 - [Features](#features)
 - [ ] [Personal interesting](#personal interesting)
 - [ ] [Reasearch area](#reasearch area)
 - [Personal study notes](#Personal study notes)
-- [ ] [Rmarkdwon](#Rmarkdwon)(https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Rmarkdown%E7%82%AB%E6%8A%80.md)
-- [ ] [R语言数据框dataframe处理](#R语言数据框dataframe处理)
-
 - [Publications](#publications)
 - [Reach me](#reach me)
 
 ## General
 
 - **Authors**: [Xinzhan Sun](https://github.com/xzsun/xzsun.github.io)
-- **Version**: v0.0.0 (based on Hexo version 3.1.0)
-
-### License
-
-This theme is from hugo-tranquilpeak-theme, which is released under the terms of the [GNU General Public License v3.0](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/LICENSE).
-
-### Documentation
-
-A personal blog framework. For record, for creativity, for communication.
+- **Version**: v0.0.0 (created on Aug. 21, 2022)
+- **Purpose**: A personal blog framework. For record, for creativity, for communication.
 
 ## Features
 
