@@ -14,7 +14,7 @@
 
 [Publications](#publications)
 
-[Reach me](#reach me)
+[Reach me] (#reach me)
 
  [ ] [**Personal study notes**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
 
