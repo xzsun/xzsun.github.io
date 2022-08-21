@@ -13,7 +13,7 @@
 - [ ] [Personal interesting](#personal interesting)
 - [ ] [Reasearch area](#reasearch area)
 - [Personal study notes](#Personal study notes)
-- [ ] [Rmarkdwon](#Rmarkdwon)
+- [ ] [Rmarkdwon](#Rmarkdwon)(https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Rmarkdown%E7%82%AB%E6%8A%80.md)
 - [ ] [R语言数据框dataframe处理](#R语言数据框dataframe处理)
 
 - [Publications](#publications)
