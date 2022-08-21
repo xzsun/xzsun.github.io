@@ -14,7 +14,7 @@
 
 [Publications](#publications)
 
-[Reach me](#reach me)
+[ReachMe](#ReachMe)
 
 [ ] [**Personal study notes**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/PersonalStudyNotes.md)
 
@@ -47,7 +47,7 @@ Xinzhan Sun<sup>†</sup>, Chaochun Zhang<sup>†</sup>, Shuikuan Bei, Guangzhou
 
 Sun XZ and Liu JG. Allelopathic effects of onion and cumin on cotton growth and soil phenolics content[J]. Allelopathy Journal, 2019, 47(1): 137-148. [DOI: 10.26651/allelo.j/2019-47-1-1227](https://www.frontiersin.org/articles/10.3389/fmicb.2022.972587/full). [**Accessibility**](https://www.researchgate.net/publication/332793834_Allelopathic_effects_of_onion_and_cumin_on_cotton_growth_and_soil_phenolics_content)
 
-## Reach me
+## ReachMe
 
 - Email: xzsun@cau.edu.cn
 
