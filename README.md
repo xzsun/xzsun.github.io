@@ -8,9 +8,9 @@
 
 [Features](#features)
 
-- [Personal interesting] (#personal interesting)
+- Personal interesting
 
-- [Reasearch area] (#reasearch area)
+- Reasearch area
 
 [Publications](#publications)
 
