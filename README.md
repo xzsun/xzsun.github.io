@@ -2,15 +2,13 @@
 
 ![The photo of working for scientific reasearch](https://github.com/xzsun/xzsun.github.io/blob/main/%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87.png?raw=true)
 
-[//]: # (哈哈我是注释，不会在浏览器中显示。D:\\GitHub\\xzsun.github.io\\科研工作照片.JPG)
-
 ## Summary
 
 - [General](#general)
 - [Features](#features)
 - [ ] [Personal interesting](#personal interesting)
 - [ ] [Reasearch area](#reasearch area)
-- [Personal study notes](#Personal study notes)
+- **Personal study notes**(https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
 - [Publications](#publications)
 - [Reach me](#reach me)
 
@@ -32,12 +30,6 @@
 ### Reasearch area
 
 - Plant-microbial interactions
-
-## Personal study notes
-
-## Rmarkdwon
-
-## R语言数据框dataframe处理
 
 
 ## Publications
@@ -63,7 +55,5 @@ Sun XZ and Liu JG. Allelopathic effects of onion and cumin on cotton growth and 
 - bilibili username: bili_89968742364
 
 ![Personal wechat public account: keladunang](https://github.com/xzsun/xzsun.github.io/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png?raw=true)
-
-[//]: # (哈哈我是注释，不会在浏览器中显示。D:\\GitHub\\xzsun.github.io\\公众号二维码.png)
 
 
