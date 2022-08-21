@@ -4,14 +4,14 @@
 
 ## Summary
 
-- [General](#general)
-- [Features](#features)
-- - [ ] [Personal interesting] (#personal interesting)
-- - [ ] [Reasearch area] (#reasearch area)
-- [Publications](#publications)
-- [Reach me](#Reach me)
+[General](#general)
+[Features](#features)
+- [Personal interesting] (#personal interesting)
+- [Reasearch area] (#reasearch area)
+[Publications](#publications)
+[Reach me](#Reach me)
 
-- [**Personal study notes (learning more)**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
+[ ] [**Personal study notes (learning more)**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
 
 ## General
 
