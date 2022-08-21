@@ -45,7 +45,7 @@ A personal blog framework. For record, for creativity, for communication.
 
 - Plant-microbial interactions
 
-# Personal study notes
+## Personal study notes
 
 ## Rmarkdwon
 
