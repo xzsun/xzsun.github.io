@@ -6,10 +6,11 @@
 
 - [General](#general)
 - [Features](#features)
-- [ ] [Personal interesting](#personal interesting)
-- [ ] [Reasearch area](#reasearch area)
+- - [ ] [Personal interesting] (#personal interesting)
+- - [ ] [Reasearch area] (#reasearch area)
 - [Publications](#publications)
-- [Reach me](#reach me)
+- [Reach me](#Reach me)
+
 - [**Personal study notes (learning more)**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/Personal%20study%20notes.md)
 
 ## General
@@ -35,7 +36,7 @@
 
 **(Sun, et al., 2022, Frontiers in Microbiology)**:
 
-Xinzhan Sun†, Chaochun Zhang†, Shuikuan Bei, Guangzhou Wang, Stefan Geisen, Laurent Bedoussac, Peter Christie, Junling Zhang. High bacterial diversity and siderophore-producing bacteria collectively suppress fusarium oxysporum in maize/faba bean intercropping[J]. Frontiers in Microbiology, 2022, 13: 972587. [DOI: 10.3389/fmicb.2022.972587](https://www.allelopathyjournal.com/10.26651/2019-47-1-1227). [**Accessibility**](https://www.researchgate.net/publication/362503901_High_bacterial_diversity_and_siderophore-producing_bacteria_collectively_suppress_Fusarium_oxysporum_in_maizefaba_bean_intercropping)
+Xinzhan Sun<sup>†</sup>, Chaochun Zhang<sup>†</sup>, Shuikuan Bei, Guangzhou Wang, Stefan Geisen, Laurent Bedoussac, Peter Christie, Junling Zhang. High bacterial diversity and siderophore-producing bacteria collectively suppress fusarium oxysporum in maize/faba bean intercropping[J]. Frontiers in Microbiology, 2022, 13: 972587. [DOI: 10.3389/fmicb.2022.972587](https://www.allelopathyjournal.com/10.26651/2019-47-1-1227). [**Accessibility**](https://www.researchgate.net/publication/362503901_High_bacterial_diversity_and_siderophore-producing_bacteria_collectively_suppress_Fusarium_oxysporum_in_maizefaba_bean_intercropping)
 
 **(Sun and Liu, 2019, Allelopathy Journal)**:
 
