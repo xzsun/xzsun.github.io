@@ -14,13 +14,13 @@
 
 [Publications](#publications)
 
-[Reach me] (#reach me)
+[Reach me](#reach me)
 
- [ ] [**Personal study notes**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/PersonalStudyNotes.md)
+[ ] [**Personal study notes**](https://github.com/xzsun/xzsun.github.io/blob/main/BlogFiles/PersonalStudyNotes.md)
 
 ## General
 
-- **Authors**: [Xinzhan Sun](https://github.com/xzsun/xzsun.github.io)
+- **Authors**: [孙新展](https://github.com/xzsun/xzsun.github.io)
 - **Version**: v0.0.0 (created on Aug. 21, 2022)
 - **Purpose**: A personal blog framework. For record, for creativity, for communication.
 
