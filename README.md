@@ -1,6 +1,8 @@
 # Xin-Zhan (Solomon) Sun
 
-![The photo of working for scientific reasearch](https://github.com/xzsun/xzsun.github.io/blob/main/%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87.JPG?raw=true)D:\\GitHub\\xzsun.github.io\\科研工作照片.JPG
+![The photo of working for scientific reasearch](https://github.com/xzsun/xzsun.github.io/blob/main/%E7%A7%91%E7%A0%94%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87.JPG?raw=true)
+
+[//]: # (哈哈我是注释，不会在浏览器中显示。D:\\GitHub\\xzsun.github.io\\科研工作照片.JPG)
 
 ## Summary
 
@@ -10,7 +12,10 @@
 - [Features](#features)
 - [ ] [Personal interesting](#personal interesting)
 - [ ] [Reasearch area](#reasearch area)
-- [ ] [Demo炫技](#demo炫技)
+- [Personal study notes](#Personal study notes)
+- [ ] [Rmarkdwon](#Rmarkdwon)
+- [ ] [R语言数据框dataframe处理](#R语言数据框dataframe处理)
+
 - [Publications](#publications)
 - [Reach me](#reach me)
 
@@ -40,30 +45,12 @@ A personal blog framework. For record, for creativity, for communication.
 
 - Plant-microbial interactions
 
-### Demo炫技
+# Personal study notes
 
-# 一级标题
+## Rmarkdwon
 
-## 二级标题
+## R语言数据框dataframe处理
 
-### 三级标题
-
-**ATTENTION** 粗体
-
-*Hugo* 斜体
-
-- dot加点
-
-`/archives/2015`阴影
-
-```R语言代码
-Hello world
-```
-- [ ] Algolia 空方格
-
-Algolia(https://github.com/kakawait/hugo-tranquilpeak-theme/issues/8)
-
-[Algolia](https://github.com/kakawait/hugo-tranquilpeak-theme/issues/8)超链接
 
 ## Publications
 
